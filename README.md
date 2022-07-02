@@ -1,6 +1,7 @@
 ## Discord Token Checker Web
 
-
+> <a href="https://youtu.be/2n_BUGSxf1w">Tutorial Video</a> <br>
+> <a href="https://discord.gg/twunVmGkJ2">Discord</a>
 
 > ❗・US Info <br>
 >  https://token.polarlabs.repl.co <br>
